@@ -16,9 +16,21 @@ EPARGNE.JAVA:
 
 Cette image correspond à la classe Epargne qui permet d'initialiser les différents paramètres et le constructor afin de créer un objet pour consulter les réponses SQL.
 
+
+
+
+
 EPARGNE_CONNECT.JAVA:
 
 <img width="891" alt="Capture d’écran 2025-02-06 à 14 35 43" src="https://github.com/user-attachments/assets/a741c87c-9e98-461c-bb34-342ab324d75d" />
 
 Dans ce fichier on initie la connection à la base de données puis on extrait et affiche les différents données de la table 'epargne' dans une arrayList. 
+
+
+
+
+FINANCEARGENT:
+
+<img width="538" alt="Capture d’écran 2025-02-06 à 14 54 21" src="https://github.com/user-attachments/assets/0f3144e5-aecc-4b1f-a2e6-cf7a78845ba2" />
+
 
